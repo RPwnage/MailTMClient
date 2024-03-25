@@ -1,6 +1,6 @@
 
 # MailTMClient
-I would like to bring to your attention the user-friendly MailTMClient package, specifically designed to facilitate seamless communication with the mail.tm API. With its comprehensive set of functions, it emerges as the only Python-based solution out there that fully embraces all the API's offerings. We hope this information will prove useful to you.
+I would like to bring to your attention the user-friendly MailTMClient package, specifically designed to facilitate seamless communication with the mail.tm API. With its comprehensive set of functions, it emerges as the only Python-based solution out there that fully embraces all the API's offerings.
 My mail.tm console client is based on the MailTMClient and in the [source code of its main.py](https://github.com/RPwnage/binify/blob/main/main.py) file you can see the ease of use of MailTMclient from an example.
 
 ## Registering a new Account and logging in
